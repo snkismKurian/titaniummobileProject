@@ -19,7 +19,7 @@ function Controller() {
         width: Ti.UI.SIZE,
         height: Ti.UI.SIZE,
         color: "#000",
-        text: "Hello, World",
+        text: "message Hello, World, ver1.01",
         id: "label"
     });
     $.__views.index.add($.__views.label);
